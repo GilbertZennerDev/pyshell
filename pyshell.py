@@ -9,6 +9,7 @@ pwd
 '''
 
 import os
+import sys
 import subprocess as sp
 
 def error(e):
@@ -32,5 +33,7 @@ def run():
 		#if txt[0] == 'export': runprog(['bash', '-c', " ".join(txt)]); print(" ".join(txt))
 		if txt[0] == 'echo':
 			if txt[1][0] == '$': txt[1] = txt[1][1:]; print(os.getenv(txt[1]))
+		if '.py' in txt[0]: runprog(['python3', txt[0]])
+		if txt[0] == 'exit': exit()
 		if txt[0] not in cmds: runprog(txt)
 run()
