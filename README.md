@@ -18,10 +18,10 @@ Think of it as your tiny personal bash — but written in pure Python 🔥
 
 🧠 Supported Commands
 Command	Description
-pwd	Prints the current working directory 📂
-cd <dir>	Changes directory 📁
-echo <text>	Prints text or environment variable 🗣️
-python3 file.py	Runs Python scripts 🐍
+pwd:	Prints the current working directory 📂
+cd <dir>:	Changes directory 📁
+echo <text>:	Prints text or environment variable 🗣️
+file.py	Runs Python scripts 🐍
 ./a.out	Executes compiled programs ⚙️
 exit	Exits the shell 🚪
 
@@ -37,7 +37,7 @@ cd pyshell
 
 2️⃣ Run it:
 
-python pyshell.py
+python3 pyshell.py
 
 
 3️⃣ Try some commands:
