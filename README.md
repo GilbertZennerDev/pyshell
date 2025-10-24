@@ -1,6 +1,6 @@
 🐚💻 PyShell — A Tiny Shell Written in Python!
 
-Welcome to PyShell, your very own lightweight command-line shell written entirely in Python 🐍✨
+Welcome to PyShell, my very own lightweight command-line shell written entirely in Python 🐍✨
 
 It’s simple, powerful, and surprisingly functional — a great mix of Python logic and Unix spirit 💪
 
