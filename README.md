@@ -99,5 +99,5 @@ Use it, modify it, and hack it however you like 💻💥
 
 👨‍💻 Author
 
-Made with ❤️ and curiosity by [Your Name]
+Made with ❤️ and curiosity by GilbertZennerDev
 💬 “Sometimes the best way to understand a system… is to build your own.” ⚙️🐍
